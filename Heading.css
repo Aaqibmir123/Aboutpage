@@ -1,0 +1,26 @@
+
+.row-1{
+    padding: 70px 0;
+  text-align: center;
+  background-color: crimson;
+}
+.row-1 h1{
+    color: white;
+    font-style: italic;
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+#first img{
+    width: 50%;
+    height: 190px;
+    margin-top: 5rem;;
+    
+}
+.content p{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
